@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "File 'betty' has been moved to /tmp/my_first_directory."
+echo "File 'betty' does not exist in /tmp."
