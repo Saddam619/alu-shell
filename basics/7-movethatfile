@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "File 'betty' does not exist in /tmp."
+mv /tmp/betty /tmp/my_first_directory/
