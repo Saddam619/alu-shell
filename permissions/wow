@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "please enter your username"
+read NAME
+
+if [ "$NAME" = "Saddam" ];
+then
+	echo "Welcome back Saddam"
+else
+	echo "invalid username, please register an account"
+fi
