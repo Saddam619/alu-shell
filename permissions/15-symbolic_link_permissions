@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -h vincent:staff_helle 15-symbolic_link_permissions
+sudo chown -h vincent:staff_hello 15-symbolic_link_permissions
