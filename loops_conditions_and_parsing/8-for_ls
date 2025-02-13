@@ -1,0 +1,9 @@
+#!/usr/bin/env bash 
+#Displaying files after the -
+
+for file in *; do
+	if [ -f "$file" ]; then
+		name="${file#*-}"
+		echo "$name"
+	fi
+done
