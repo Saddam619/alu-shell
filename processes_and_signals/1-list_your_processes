@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#PID of only bash processes
+#Display a list of all running processes
 
-ps auxf | grep "bash"
+ps auxf
